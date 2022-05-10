@@ -70,6 +70,7 @@ h1 {
     line-height: 40px;
     margin: 0 0 24px;
     color: #17181A;
+    font-family: "droid-serif", Georgia, serif;
 }
 
 h2 {
@@ -77,6 +78,7 @@ h2 {
     line-height: 32px;
     margin: 0 0 24px;
     color: #17181A;
+    font-family: "droid-serif", Georgia, serif;
 }
 
 h3 {
@@ -84,6 +86,7 @@ h3 {
     line-height: 24px;
     margin: 0 0 24px;
     color: #17181A;
+    font-family: "droid-serif", Georgia, serif;
 }
 
 h4,
