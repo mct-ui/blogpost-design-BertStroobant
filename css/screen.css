@@ -29,6 +29,7 @@ html {
     padding: 48px 24px 24px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing : grayscale;
+    border-style: border-box;
 }
 
 body {
@@ -282,6 +283,7 @@ a:focus {
                                    http://www.sanbeiji.com/archives/953 */
         box-shadow: none !important;
         text-shadow: none !important;
+        box-sizing: inherit;
     }
     a,
     a:visited {
